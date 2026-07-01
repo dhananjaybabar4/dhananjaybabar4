@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🎯 **BCA Graduate | Aspiring Financial Data Analyst | Navi Mumbai**
+🎯 **BCA Graduate | Aspiring Financial Data Analyst**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhananjay-babar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhananjaybabar18@gmail.com)
@@ -18,7 +18,7 @@
 - 🐍 Building skills in **Python • SQL • Excel • React • Node.js**
 - 🌱 Currently learning: **Data Analysis, Statistics, Financial Modeling**
 - 🎯 Goal: Financial Data Analyst → Quant Finance
-- 📍 Based in **Navi Mumbai, India**
+- 
 
 ---
 
@@ -53,7 +53,7 @@
 |---------|-------------|------|-------|
 | **ATL — Anytime Learning** | Full-stack online learning platform with lessons, quizzes, AI roadmap & admin panel | React, Node.js, Supabase | [🌐 Live](https://online-learning-platform-mu-seven.vercel.app/) • [💻 Code](https://github.com/dhananjaybabar4/online-learning-platform) |
 | **QR Photo Drop** | Instantly share photos between devices via QR code — no internet needed | Java, Android | [📱 APK](https://github.com/dhananjaybabar4/QR-photo-drop/releases/tag/v1.0) • [💻 Code](https://github.com/dhananjaybabar4/QR-photo-drop) |
-| **Stock Market Analyzer** 🔜 | Financial data analysis & visualization of NSE stocks | Python, pandas, matplotlib | Coming Soon |
+
 
 ---
 
