@@ -13,12 +13,12 @@
 ---
 
 ### 🙋 About Me
+
 - 🎓 BCA Graduate (2026) from Maharashtra
 - 💡 Passionate about **Financial Data Analysis** and **Quantitative Finance**
-- 🐍 Building skills in **Python • SQL • Excel • React • Node.js**
+- 🐍 Building skills in **Python • SQL • Excel • Power BI • React • Node.js**
 - 🌱 Currently learning: **Data Analysis, Statistics, Financial Modeling**
 - 🎯 Goal: Financial Data Analyst → Quant Finance
-- 
 
 ---
 
@@ -30,6 +30,11 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Data Analysis & BI**
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Web & Mobile**
 
@@ -43,7 +48,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -51,9 +55,9 @@
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
+| **Bike Sales Data Verification & Analytics Dashboard** | Cleaned and combined two years of sales data, built an automated check to catch year-mismatched records, and created a formula-driven Excel dashboard plus a Power BI report | Excel, Power BI | [💻 Code](https://github.com/dhananjaybabar4/bike-sales-verification-dashboard) |
 | **ATL — Anytime Learning** | Full-stack online learning platform with lessons, quizzes, AI roadmap & admin panel | React, Node.js, Supabase | [🌐 Live](https://online-learning-platform-mu-seven.vercel.app/) • [💻 Code](https://github.com/dhananjaybabar4/online-learning-platform) |
 | **QR Photo Drop** | Instantly share photos between devices via QR code — no internet needed | Java, Android | [📱 APK](https://github.com/dhananjaybabar4/QR-photo-drop/releases/tag/v1.0) • [💻 Code](https://github.com/dhananjaybabar4/QR-photo-drop) |
-
 
 ---
 
@@ -62,7 +66,6 @@
 <div align="center">
 
 ![Dhananjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjaybabar4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaybabar4&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
